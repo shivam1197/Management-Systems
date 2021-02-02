@@ -105,7 +105,7 @@ while(1):
                '''STUDENT COURSE:''', stu.course,
                 '''STUDENT BATCH:''', stu.batch)
 
-    print('''*WELCOME TO SHUBHANGI'S SMS*
+    print('''*WELCOME TO Student'S SMS*
     press 1 for add student,
     press 2 for search student
     press 3 for delete student
